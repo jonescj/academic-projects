@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week7.FunctionUtilsTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.DogTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week7.SimpleStreamTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week6.ListUtilsTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.MyStudentTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week10.SimpleAkkaStreamTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.FirstSpec, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week1.Problem1Test, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week6.FunctionUtils2Test, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.HarvardStudentTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.SimpleCatsTypeclassTest, org.scalatest.tools.Framework$$anon$1@741b7c4a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 5 seconds, 461 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 26[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 11, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 25, failed 1, canceled 0, ignored 1, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.MyStudentTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.DogTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week6.ListUtilsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week10.SimpleAkkaStreamTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.HarvardStudentTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week6.FunctionUtils2Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.FirstSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.SimpleCatsTypeclassTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week1.Problem1Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week7.SimpleStreamTest[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	com.cscie88a.week7.FunctionUtilsTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

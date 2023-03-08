@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: fs2-core
+Specification-Version: 2.2.1
+Specification-Vendor: co.fs2
+Implementation-Title: fs2-core
+Implementation-Version: 2.2.1
+Implementation-Vendor: co.fs2
+Implementation-Vendor-Id: co.fs2
+Implementation-URL: https://github.com/functional-streams-for-scala/fs2
+

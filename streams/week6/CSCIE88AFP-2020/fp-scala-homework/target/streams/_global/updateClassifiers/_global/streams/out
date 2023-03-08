@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/bonnie/Desktop/Projects/learning-experiences/academic-projects/csci-88/csci-88a/harvard-projects/CSCIE88AFP-2020/fp-scala-homework/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/Users/bonnie/Desktop/Projects/learning-experiences/academic-projects/csci-88/csci-88a/harvard-projects/CSCIE88AFP-2020/fp-scala-homework/"), "root")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

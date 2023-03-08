@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b2aa625-d3af-43b5-a066-f49715db7983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fp-java-homework/src/main/java/cscie88a/hw4/IAdoptable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp-java-homework/src/main/java/cscie88a/hw4/AdoptionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fp-java-homework/src/main/java/cscie88a/hw4/AdoptionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp-java-homework/src/test/java/cscie88a/hw4/AdoptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/fp-java-homework/src/test/java/cscie88a/hw4/AdoptionTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSCIE88AFP-2020" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YRp5ghQspAcXX2XdH6ziFrBKjw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="CSCIE88AFP-2020" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/fp-scala-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b2aa625-d3af-43b5-a066-f49715db7983" name="Default Changelist" comment="" />
+      <created>1582915080746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582915080746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582925961693">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="369" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1582925961693" />
+    <state x="416" y="23" width="1024" height="831" key="SettingsEditor" timestamp="1582925712074">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="416" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1582925712074" />
+  </component>
+</project>

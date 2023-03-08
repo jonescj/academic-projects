@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mProblem1Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcelsiusToFahrenheit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert correctly for 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert correctly for 32[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert correctly for 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mstringToTemperature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert a valid double string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should skip a comment line[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should skip a invalid string[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mprocessLines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert all valid lines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should ignore all invalid lines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert only valid lines in list with valid and invalid lines[0m[0m

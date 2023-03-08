@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFunctionUtilsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFunctionUtils[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return same value for function applied twice *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  9 was not equal to 13 (FunctionUtilsTest.scala:15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return same value for function applied twice with a function[0m[0m

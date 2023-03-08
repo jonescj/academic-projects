@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFirstSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAn empty set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have size 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce NoSuchElementException for head[0m[0m

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a78cafa8-9eec-440f-97f6-fabaf20aabd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw5/HealthyAnimalFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw5/AnimalGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw5/AnimalGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw5/StreamHW5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw5/StreamHW5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ye8NVYqB7ajb1ZXUsAXJ6vBtSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.StreamHW5Test">
+    <configuration name="AnimalGeneratorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw5.AnimalGeneratorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StreamHW5Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw5.StreamHW5Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StreamHW5Test" />
+        <item itemvalue="Gradle.AnimalGeneratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fp-scala-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a78cafa8-9eec-440f-97f6-fabaf20aabd0" name="Default Changelist" comment="" />
+      <created>1583291659606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583291659606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-962" y="-965" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583305779930">
+      <screen x="-1195" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-962" y="-965" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833/-1195.-1057.1920.1057@-1195.-1057.1920.1057" timestamp="1583305779930" />
+    <state x="532" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1583312443678">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="532" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833/-1195.-1057.1920.1057@0.23.1440.833" timestamp="1583312443678" />
+    <state width="1351" height="309" key="GridCell.Tab.0.bottom" timestamp="1583414572745">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1351" height="212" key="GridCell.Tab.0.bottom/0.23.1440.833/-1195.-1057.1920.1057@-1195.-1057.1920.1057" timestamp="1583307462076" />
+    <state width="1351" height="309" key="GridCell.Tab.0.bottom/0.23.1440.833/-1195.-1057.1920.1057@0.23.1440.833" timestamp="1583369740017" />
+    <state width="1351" height="309" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583414572745" />
+    <state width="1351" height="309" key="GridCell.Tab.0.bottom/0.23.1440.834/-1195.-1057.1920.1057@0.23.1440.834" timestamp="1583403381422" />
+    <state width="1351" height="309" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1583412312087" />
+    <state width="1351" height="309" key="GridCell.Tab.0.center" timestamp="1583414572744">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1351" height="212" key="GridCell.Tab.0.center/0.23.1440.833/-1195.-1057.1920.1057@-1195.-1057.1920.1057" timestamp="1583307462075" />
+    <state width="1351" height="309" key="GridCell.Tab.0.center/0.23.1440.833/-1195.-1057.1920.1057@0.23.1440.833" timestamp="1583369740016" />
+    <state width="1351" height="309" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1583414572744" />
+    <state width="1351" height="309" key="GridCell.Tab.0.center/0.23.1440.834/-1195.-1057.1920.1057@0.23.1440.834" timestamp="1583403381422" />
+    <state width="1351" height="309" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1583412312086" />
+    <state width="1351" height="309" key="GridCell.Tab.0.left" timestamp="1583414572744">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1351" height="212" key="GridCell.Tab.0.left/0.23.1440.833/-1195.-1057.1920.1057@-1195.-1057.1920.1057" timestamp="1583307462074" />
+    <state width="1351" height="309" key="GridCell.Tab.0.left/0.23.1440.833/-1195.-1057.1920.1057@0.23.1440.833" timestamp="1583369740015" />
+    <state width="1351" height="309" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1583414572744" />
+    <state width="1351" height="309" key="GridCell.Tab.0.left/0.23.1440.834/-1195.-1057.1920.1057@0.23.1440.834" timestamp="1583403381421" />
+    <state width="1351" height="309" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1583412312086" />
+    <state width="1351" height="309" key="GridCell.Tab.0.right" timestamp="1583414572745">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1351" height="212" key="GridCell.Tab.0.right/0.23.1440.833/-1195.-1057.1920.1057@-1195.-1057.1920.1057" timestamp="1583307462075" />
+    <state width="1351" height="309" key="GridCell.Tab.0.right/0.23.1440.833/-1195.-1057.1920.1057@0.23.1440.833" timestamp="1583369740017" />
+    <state width="1351" height="309" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1583414572745" />
+    <state width="1351" height="309" key="GridCell.Tab.0.right/0.23.1440.834/-1195.-1057.1920.1057@0.23.1440.834" timestamp="1583403381422" />
+    <state width="1351" height="309" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1583412312086" />
+  </component>
+</project>

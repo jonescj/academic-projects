@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cscie88a.hw0.Problem1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-04T03:20:09" hostname="2785614eab01" time="0.072">
+  <properties/>
+  <testcase name="convertTemp()" classname="cscie88a.hw0.Problem1Test" time="0.031"/>
+  <testcase name="readFile()" classname="cscie88a.hw0.Problem1Test" time="0.024"/>
+  <testcase name="convertBadTemp()" classname="cscie88a.hw0.Problem1Test" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Invalid temperature in C. The input value: 30a
+Invalid temperature in C. The input value: AB10
+]]></system-err>
+</testsuite>

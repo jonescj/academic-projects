@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56666322-5a9f-4199-8b37-aa598a741759" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fp-scala-homework/src/main/scala/com/cscie88a/week3/HarvardStudent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/fp-scala-homework/src/main/scala/com/cscie88a/week3/HarvardStudent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp-scala-homework/src/main/scala/com/cscie88a/week3/MyStudent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/fp-scala-homework/src/main/scala/com/cscie88a/week3/MyStudent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp-scala-homework/src/test/scala/com/cscie88a/week3/HarvardStudentTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/fp-scala-homework/src/test/scala/com/cscie88a/week3/HarvardStudentTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp-scala-homework/src/test/scala/com/cscie88a/week3/MyStudentTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/fp-scala-homework/src/test/scala/com/cscie88a/week3/MyStudentTest.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YSBHeoTYA1F1uh5KiO1dOkmw5p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56666322-5a9f-4199-8b37-aa598a741759" name="Default Changelist" comment="" />
+      <created>1582926028027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582926028027</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDogTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDog case class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a Dog instance without using the new operator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the correct age[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should indicate that a puppy needs training[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should indicate that an old dog does not need training[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a dog from comma separated values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDogAggregator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate average with ones[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate avg correctly for a single dog[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate avg correctly for 3 dogs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add two dogs correctly[0m[0m

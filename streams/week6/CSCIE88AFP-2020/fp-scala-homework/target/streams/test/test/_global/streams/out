@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.DogTest, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.SimpleCatsTypeclassTest, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.MyStudentTest, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week3.HarvardStudentTest, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week6.ListUtilsTest, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week1.Problem1Test, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.week6.FunctionUtils2Test, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.cscie88a.FirstSpec, org.scalatest.tools.Framework$$anon$1@2c94912c, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 940 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 22[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 8, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 22, failed 0, canceled 0, ignored 1, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.MyStudentTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.DogTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week6.ListUtilsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week3.HarvardStudentTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week6.FunctionUtils2Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.FirstSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.SimpleCatsTypeclassTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.cscie88a.week1.Problem1Test[0m

@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+    id 'java-library'
+    id 'eclipse'
+    id 'idea'
+}
+
+group 'cscie88a.hw0'
+version '1.0-SNAPSHOT'
+
+repositories {
+    // Use jcenter for resolving dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    jcenter()
+}
+
+dependencies {
+    compile 'com.google.guava:guava:28.0-jre'
+
+    // Use JUnit test framework
+    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.5.1'
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "PASSED", "STARTED", "FAILED", "SKIPPED"
+    }
+}

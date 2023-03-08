@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82302f64-98c1-4249-a8b8-acdcfae753b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/cscie88a/week3/HarvardStudent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/cscie88a/week3/HarvardStudent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/cscie88a/week3/MyStudent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/cscie88a/week3/MyStudent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/com/cscie88a/week3/HarvardStudentTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/cscie88a/week3/HarvardStudentTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/com/cscie88a/week3/MyStudentTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/cscie88a/week3/MyStudentTest.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Y49u6xUBYBOq1b97iGxJREdgcS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.HarvardStudentTest">
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="fp-scala-homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarvardStudentTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="fp-scala-homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.cscie88a.week3.HarvardStudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStudentTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="fp-scala-homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.cscie88a.week3.MyStudentTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.HarvardStudentTest" />
+        <item itemvalue="ScalaTest.MyStudentTest" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="fp-scala-homework" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/bonnie/Desktop/Projects/learning-experiences/academic-projects/csci-88/csci-88a/week3/CSCIE88AFP-2020/fp-scala-homework/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="fp-scala-homework-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="4021217970" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="874623268" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2134611975" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82302f64-98c1-4249-a8b8-acdcfae753b4" name="Default Changelist" comment="" />
+      <created>1582191219119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582191219119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582198338893">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="118" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.833@0.23.1440.833" timestamp="1582198338893" />
+    <state width="719" height="242" key="GridCell.Tab.0.bottom" timestamp="1582202815544">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="719" height="242" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582202815544" />
+    <state width="719" height="242" key="GridCell.Tab.0.center" timestamp="1582202815544">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="719" height="242" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1582202815544" />
+    <state width="719" height="242" key="GridCell.Tab.0.left" timestamp="1582202815543">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="719" height="242" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1582202815543" />
+    <state width="719" height="242" key="GridCell.Tab.0.right" timestamp="1582202815544">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="719" height="242" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1582202815544" />
+  </component>
+</project>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9941c850-4ad4-42b6-bc9d-87f110b8d3ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Week1.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZzsG3edzTaLDB80afJmDvIAR4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/src/main/java/cscie88a/hw8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cscie88a" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.AdvancedStreamProcessingTest">
+    <configuration name="AdvancedStreamProcessingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw8.AdvancedStreamProcessingTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AllAnimalTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw2.AllAnimalTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem1Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw0.Problem1Test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AdvancedStreamProcessingTest" />
+        <item itemvalue="Gradle.AllAnimalTests" />
+        <item itemvalue="Gradle.Problem1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fp-scala-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9941c850-4ad4-42b6-bc9d-87f110b8d3ae" name="Default Changelist" comment="" />
+      <created>1585853158287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585853158287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585880978609">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="615" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.834@0.23.1440.834" timestamp="1585880978609" />
+    <state x="595" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585880698981">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="595" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.834@0.23.1440.834" timestamp="1585880698981" />
+    <state width="1477" height="129" key="GridCell.Tab.0.bottom" timestamp="1585958063570">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1227" height="212" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1585853589430" />
+    <state width="1477" height="129" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1585958063569" />
+    <state width="1477" height="129" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1585953949100" />
+    <state width="1477" height="352" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1585953453200" />
+    <state width="1477" height="129" key="GridCell.Tab.0.center" timestamp="1585958063565">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1227" height="212" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1585853589429" />
+    <state width="1477" height="129" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1585958063565" />
+    <state width="1477" height="129" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1585953949099" />
+    <state width="1477" height="352" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1585953453199" />
+    <state width="1477" height="129" key="GridCell.Tab.0.left" timestamp="1585958063564">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1227" height="212" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1585853589428" />
+    <state width="1477" height="129" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1585958063564" />
+    <state width="1477" height="129" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1585953949099" />
+    <state width="1477" height="352" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1585953453199" />
+    <state width="1477" height="129" key="GridCell.Tab.0.right" timestamp="1585958063568">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1227" height="212" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1585853589429" />
+    <state width="1477" height="129" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1585958063568" />
+    <state width="1477" height="129" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1585953949100" />
+    <state width="1477" height="352" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1585953453200" />
+    <state x="672" y="218" key="chooseDestDirectoryDialog" timestamp="1585880043547">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="672" y="218" key="chooseDestDirectoryDialog/0.23.1440.834@0.23.1440.834" timestamp="1585880043547" />
+    <state x="0" y="23" width="791" height="594" key="dock-window-1" timestamp="1585949155062">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="0" y="23" width="791" height="594" key="dock-window-1/0.23.1440.836@0.23.1440.836" timestamp="1585949155062" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585861231033">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.834@0.23.1440.834" timestamp="1585861231033" />
+  </component>
+</project>

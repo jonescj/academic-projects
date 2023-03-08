@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="001a91a7-c8b9-4690-a320-826807cd83a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aeIbLfTjZCOsnbvkEBR0JHNdrF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.MySimpleAkkaStreamTest">
+    <configuration name="MySimpleAkkaStreamTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="fp-scala-homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.cscie88a.week10.MySimpleAkkaStreamTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaTests in 'week10'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="fp-scala-homework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="classBuf">
+        <list>
+          <option value="com.cscie88a.week10.SimpleAkkaStreamTest" />
+          <option value="com.cscie88a.week10.MySimpleAkkaStreamTest" />
+          <option value="com.cscie88a.week10.SimpleAkkaStreamTest" />
+          <option value="com.cscie88a.week10.MySimpleAkkaStreamTest" />
+        </list>
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="com.cscie88a.week10" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.MySimpleAkkaStreamTest" />
+        <item itemvalue="ScalaTest.ScalaTests in 'week10'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="fp-scala-homework" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/bonnie/Desktop/Projects/learning-experiences/academic-projects/csci-88/csci-88a/harvard-projects/CSCIE88AFP-2020/fp-scala-homework/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="fp-scala-homework-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="4021217970" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="2764853140" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2134611975" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001a91a7-c8b9-4690-a320-826807cd83a0" name="Default Changelist" comment="" />
+      <created>1587089703258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587089703258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587101246758">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="543" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.833/1440.-548.1920.1057@0.23.1440.833" timestamp="1587101246758" />
+    <state width="1074" height="400" key="GridCell.Tab.0.bottom" timestamp="1587104260272">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1074" height="215" key="GridCell.Tab.0.bottom/0.23.1440.832/1440.-548.1920.1057@0.23.1440.832" timestamp="1587092199793" />
+    <state width="1074" height="215" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-548.1920.1057@0.23.1440.833" timestamp="1587102082527" />
+    <state width="1074" height="400" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.-548.1920.1057@0.23.1440.834" timestamp="1587104260272" />
+    <state width="1074" height="400" key="GridCell.Tab.0.center" timestamp="1587104260270">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1074" height="215" key="GridCell.Tab.0.center/0.23.1440.832/1440.-548.1920.1057@0.23.1440.832" timestamp="1587092199791" />
+    <state width="1074" height="215" key="GridCell.Tab.0.center/0.23.1440.833/1440.-548.1920.1057@0.23.1440.833" timestamp="1587102082526" />
+    <state width="1074" height="400" key="GridCell.Tab.0.center/0.23.1440.834/1440.-548.1920.1057@0.23.1440.834" timestamp="1587104260270" />
+    <state width="1074" height="400" key="GridCell.Tab.0.left" timestamp="1587104260270">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1074" height="215" key="GridCell.Tab.0.left/0.23.1440.832/1440.-548.1920.1057@0.23.1440.832" timestamp="1587092199791" />
+    <state width="1074" height="215" key="GridCell.Tab.0.left/0.23.1440.833/1440.-548.1920.1057@0.23.1440.833" timestamp="1587102082525" />
+    <state width="1074" height="400" key="GridCell.Tab.0.left/0.23.1440.834/1440.-548.1920.1057@0.23.1440.834" timestamp="1587104260270" />
+    <state width="1074" height="400" key="GridCell.Tab.0.right" timestamp="1587104260271">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1074" height="215" key="GridCell.Tab.0.right/0.23.1440.832/1440.-548.1920.1057@0.23.1440.832" timestamp="1587092199793" />
+    <state width="1074" height="215" key="GridCell.Tab.0.right/0.23.1440.833/1440.-548.1920.1057@0.23.1440.833" timestamp="1587102082527" />
+    <state width="1074" height="400" key="GridCell.Tab.0.right/0.23.1440.834/1440.-548.1920.1057@0.23.1440.834" timestamp="1587104260271" />
+  </component>
+</project>

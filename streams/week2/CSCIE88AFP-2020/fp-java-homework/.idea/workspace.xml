@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09157e0a-602a-40d5-861d-5dd9e267753f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/Hedgehog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/AbstractAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/AbstractAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/AnimalManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/AnimalManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/ITrainable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw2/ITrainable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cscie88a/hw2/AllAnimalTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cscie88a/hw2/AllAnimalTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cscie88a/hw2/AnimalManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cscie88a/hw2/AnimalManagerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XhDW9QcoxnxwM4INEclgZaj95n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'cscie88a.hw2'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw2.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'cscie88a.hw2'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09157e0a-602a-40d5-861d-5dd9e267753f" name="Default Changelist" comment="" />
+      <created>1581489462230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581489462230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="793" y="-842" key="#com.intellij.ide.util.MemberChooser" timestamp="1581502675344">
+      <screen x="-265" y="-1057" width="1920" height="996" />
+    </state>
+    <state x="793" y="-842" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-265.-1057.1920.996@-265.-1057.1920.996" timestamp="1581502675344" />
+    <state x="793" y="-842" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-265.-1057.1920.997@-265.-1057.1920.997" timestamp="1581499260938" />
+    <state width="1307" height="286" key="GridCell.Tab.0.bottom" timestamp="1581504416430">
+      <screen x="-265" y="-1057" width="1920" height="995" />
+    </state>
+    <state width="1307" height="286" key="GridCell.Tab.0.bottom/0.23.1440.831/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581502731478" />
+    <state width="1307" height="203" key="GridCell.Tab.0.bottom/0.23.1440.832/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581496202546" />
+    <state width="1307" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-265.-1057.1920.995@-265.-1057.1920.995" timestamp="1581504416430" />
+    <state width="1307" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-265.-1057.1920.996@-265.-1057.1920.996" timestamp="1581503010382" />
+    <state width="1307" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-265.-1057.1920.997@-265.-1057.1920.997" timestamp="1581500105138" />
+    <state width="1307" height="286" key="GridCell.Tab.0.center" timestamp="1581504416429">
+      <screen x="-265" y="-1057" width="1920" height="995" />
+    </state>
+    <state width="1307" height="286" key="GridCell.Tab.0.center/0.23.1440.831/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581502731478" />
+    <state width="1307" height="203" key="GridCell.Tab.0.center/0.23.1440.832/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581496202546" />
+    <state width="1307" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-265.-1057.1920.995@-265.-1057.1920.995" timestamp="1581504416429" />
+    <state width="1307" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-265.-1057.1920.996@-265.-1057.1920.996" timestamp="1581503010382" />
+    <state width="1307" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-265.-1057.1920.997@-265.-1057.1920.997" timestamp="1581500105137" />
+    <state width="1307" height="286" key="GridCell.Tab.0.left" timestamp="1581504416429">
+      <screen x="-265" y="-1057" width="1920" height="995" />
+    </state>
+    <state width="1307" height="286" key="GridCell.Tab.0.left/0.23.1440.831/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581502731477" />
+    <state width="1307" height="203" key="GridCell.Tab.0.left/0.23.1440.832/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581496202545" />
+    <state width="1307" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-265.-1057.1920.995@-265.-1057.1920.995" timestamp="1581504416429" />
+    <state width="1307" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-265.-1057.1920.996@-265.-1057.1920.996" timestamp="1581503010381" />
+    <state width="1307" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-265.-1057.1920.997@-265.-1057.1920.997" timestamp="1581500105136" />
+    <state width="1307" height="286" key="GridCell.Tab.0.right" timestamp="1581504416430">
+      <screen x="-265" y="-1057" width="1920" height="995" />
+    </state>
+    <state width="1307" height="286" key="GridCell.Tab.0.right/0.23.1440.831/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581502731478" />
+    <state width="1307" height="203" key="GridCell.Tab.0.right/0.23.1440.832/-265.-1057.1920.1057@-265.-1057.1920.1057" timestamp="1581496202546" />
+    <state width="1307" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-265.-1057.1920.995@-265.-1057.1920.995" timestamp="1581504416430" />
+    <state width="1307" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-265.-1057.1920.996@-265.-1057.1920.996" timestamp="1581503010382" />
+    <state width="1307" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-265.-1057.1920.997@-265.-1057.1920.997" timestamp="1581500105137" />
+    <state x="8" y="23" width="900" height="832" key="SettingsEditor" timestamp="1581489672643">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="8" y="23" width="900" height="832" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1581489672643" />
+  </component>
+</project>

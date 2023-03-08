@@ -1,0 +1,41 @@
+)Sneaky says: fine, I'll do the trick... 
+)Sneaky says: fine, I'll do the trick... 
+Run #0
+-supplied animal: cscie88a.hw4.CatFP@615299dd
+.SuppliedCat says: fine, I'll do the trick... 
+'I will accept this animal for training
+Run #1
+-supplied animal: cscie88a.hw4.DogFP@29740c91
+,SuppliedDog says: Ok! I'll do the trick... 
+'I will accept this animal for training
+Run #2
+-supplied animal: cscie88a.hw4.DogFP@3977af84
+,SuppliedDog says: Ok! I'll do the trick... 
+'I will accept this animal for training
+Run #3
+-supplied animal: cscie88a.hw4.CatFP@4c9e5506
+.SuppliedCat says: fine, I'll do the trick... 
+'I will accept this animal for training
+Run #4
+-supplied animal: cscie88a.hw4.CatFP@4af44dc8
+.SuppliedCat says: fine, I'll do the trick... 
+'I will accept this animal for training
+Run #0
+-supplied animal: cscie88a.hw4.CatFP@79ea176a
+We can accept this animal
+Run #1
+-supplied animal: cscie88a.hw4.CatFP@11189f92
+We can NOT accept this animal
+Run #2
+-supplied animal: cscie88a.hw4.CatFP@3c5cbcea
+We can NOT accept this animal
+Run #3
+-supplied animal: cscie88a.hw4.CatFP@698c4a60
+We can accept this animal
+Run #4
+-supplied animal: cscie88a.hw4.CatFP@4074417c
+We can NOT accept this animal
+*Calculated length for string: class --> 5
++Calculated length for string: class --> 15
++Calculated length for string: class --> 10
+,Calculated length for string: class --> 105

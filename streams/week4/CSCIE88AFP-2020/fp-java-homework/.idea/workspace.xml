@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f925ecd9-a0cb-4d87-bd3f-50115c4276f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/IAdoptable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/AbstractAnimalFP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/AbstractAnimalFP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/AdoptionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/AdoptionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/DogFP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cscie88a/hw4/DogFP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/AdoptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/AdoptionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/AnimalManagerMethodRefTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/AnimalManagerMethodRefTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/CoreFIExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cscie88a/hw4/CoreFIExamplesTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YSBNffMUVQcJats8kGshejE0cM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.CoreFIExamplesTest">
+    <configuration name="AdoptionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw4.AdoptionTests&quot; --info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnimalManagerMethodRefTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw4.AnimalManagerMethodRefTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CoreFIExamplesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;cscie88a.hw4.CoreFIExamplesTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CoreFIExamplesTest" />
+        <item itemvalue="Gradle.AnimalManagerMethodRefTests" />
+        <item itemvalue="Gradle.AdoptionTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fp-scala-homework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../../../../harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f925ecd9-a0cb-4d87-bd3f-50115c4276f0" name="Default Changelist" comment="" />
+      <created>1582926076665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582926076665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="155" key="#com.intellij.ide.util.MemberChooser" timestamp="1582937679863">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="638" y="155" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832@0.23.1440.832" timestamp="1582937679863" />
+    <state width="1187" height="284" key="GridCell.Tab.0.bottom" timestamp="1582963065146">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1055" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582926125893" />
+    <state width="1187" height="284" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1582963065146" />
+    <state width="1187" height="284" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582938844735" />
+    <state width="1187" height="284" key="GridCell.Tab.0.center" timestamp="1582963065143">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1055" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1582926125892" />
+    <state width="1187" height="284" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1582963065143" />
+    <state width="1187" height="284" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1582938844734" />
+    <state width="1187" height="284" key="GridCell.Tab.0.left" timestamp="1582963065125">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1055" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1582926125892" />
+    <state width="1187" height="284" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1582963065125" />
+    <state width="1187" height="284" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1582938844734" />
+    <state width="1187" height="284" key="GridCell.Tab.0.right" timestamp="1582963065144">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1055" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1582926125893" />
+    <state width="1187" height="284" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1582963065144" />
+    <state width="1187" height="284" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1582938844734" />
+  </component>
+</project>
