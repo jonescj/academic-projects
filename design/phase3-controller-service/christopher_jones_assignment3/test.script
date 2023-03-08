@@ -1,0 +1,169 @@
+# My script for the Smart City Model Service + Smart City Controller Service. 
+# Please feel free to adjust the syntax. This script is my test script!
+
+# Allow subscription from Controller Service
+initialize controller
+
+# Initialize Model
+initialize model smartcitymodel description "this is a smart city model" seed smartcity
+
+# Allow subscription from Controller Service
+attach controller
+
+# City Commands
+# Define a city
+# define city <city_id> name <name> account <address> lat <float> long <float> radius <float>
+
+define city cambridge name Cambridge-MA account cambridge-account lat 42.3736 long -71.1097 radius 100
+define city seattle name Seattle-WA account seattle-account lat 42.6062 long -122.3321 radius 100
+
+# Notify subscribers
+notify controller
+
+# Device Commands
+# Define a street sign
+# define street-sign <city_id>:<device_id> lat <float> long <float> enabled (true|false) text <text>
+define street-sign cambridge:ss_1 lat 42.3736 long -71.1097 enabled true text "Welcome to Cambridge!"
+define street-sign cambridge:ss_2 lat 42.3730 long -71.1091 enabled true text "Welcome to Massachusetts!"
+define street-sign cambridge:ss_3 lat 42.3330 long -71.1191 enabled true text "Welcome to Cambridge, MA!"
+
+# Define an information kiosk
+# define info-kiosk <city_id>:<device_id> lat <float> long <float> enabled (true|false) image <uri>
+
+define info-kiosk cambridge:kiosk_1 lat 42.3723 long -71.1230 enabled true image https://media-cdn.tripadvisor.com/media/photo-s/05/94/cc/10/charles-hotel.jpg
+define info-kiosk cambridge:kiosk_2 lat 42.3766 long -71.1160 enabled true image https://www.lwa-architects.com/wp-content/uploads/2014/12/Harvard-SciCtr_Ext-bikes-992x1250.jpg
+
+# Define a street light
+# define street-light <city_id>:<device_id> lat <float> long <float> enabled (true|false) brightness <int>
+
+define street-light cambridge:sl_1 lat 42.3770 long -71.1167 enabled true brightness 8
+define street-light cambridge:sl_2 lat 42.3749 long -71.1218 enabled true brightness 5
+
+# Define a parking space
+# define parking-space <city_id>:<device_id> lat <float> long <float> enabled (true|false) rate <int>
+
+define parking-space cambridge:ps_1 lat 42.3743 long -71.1202 enabled true rate 25
+define parking-space cambridge:ps_2 lat 42.3744 long -71.1203 enabled true rate 25
+
+# Define a robot
+# define robot <city_id>:<device_id> lat <float> long <float> enabled (true|false) activity <string>
+
+define robot cambridge:bot_1 lat 42.3735 long -71.1205 enabled true activity "cleaning"
+define robot cambridge:bot_2 lat 42.3729 long -71.1192 enabled true activity "assisting student"
+define robot cambridge:bot_3 lat 42.3725 long -71.1193 enabled true activity "running errand"
+
+# Define a vehicle
+# define vehicle <city_id>:<device_id> lat <float> long <float> enabled (true|false) type (bus|car) activity <string> capacity <int> fee <int>
+
+define vehicle cambridge:car_1 lat 42.3725 long -71.1161 enabled true type car activity "parked" capacity 4 fee 10
+define vehicle cambridge:bus_1 lat 42.3736 long -71.1214 enabled true type bus activity "on route" capacity 30 fee 1
+
+# Person Commands
+# Define a new Resident
+# define resident <person_id> name <name> bio-metric <string> phone <phone_number> role (adult|child|administrator) lat <lat> long <long> account <account_address>
+
+define resident resident_1 name jane bio-metric "voice-print='voiceprint-jane',face-print='faceprint-jane'" phone 781-222-3344 role adult lat 42.3735 long -71.1205 account janes_account
+
+# Update a Resident
+# update resident <person_id> [name <name>] [bio-metric <string>] [phone <phone_number>] [role (adult|child|administrator)] [lat <lat> long <long>] [account <account_address>]
+
+update resident resident_1 name jane lat 42.3830 long -71.1125
+
+# Define a new Visitor
+# define visitor <person_id> bio-metric <string> lat <lat> long <long>
+
+define visitor visitor_1 bio-metric "iris-print='irisprint-visitor_1'" lat 42.6062 long -122.3321
+
+# Update a Visitor
+# update visitor <person_id> [bio-metric <string>] [lat <lat> long <long>]
+
+update visitor visitor_1 lat 42.3830 long -71.1125
+
+# Notify subscribers
+notify controller
+
+# Show response to CO2 Events
+show device cambridge:car_1
+create sensor-output cambridge:sl_1 type co2meter value 1500
+create sensor-output cambridge:bot_1 type co2meter value 1510
+create sensor-output cambridge:bot_2 type co2meter value 1520
+notify controller
+show device cambridge:car_1
+
+# Show response to CO2 Events
+show device cambridge:car_1
+create sensor-output cambridge:sl_1 type co2meter value 90
+create sensor-output cambridge:bot_1 type co2meter value 150
+create sensor-output cambridge:bot_2 type co2meter value 120
+notify controller
+show device cambridge:car_1
+
+# Respond to resident littering
+create sensor-event cambridge:bot_1 type camera value "Person jane throws garbage on ground at lat 42.3830 long -71.1125" subject resident_1
+notify controller
+show device cambridge:bot_1
+
+# Respond to visitor littering
+create sensor-event cambridge:bot_1 type camera value "Person jane throws garbage on ground at lat 42.3830 long -71.1125" subject visitor_1
+notify controller
+show device cambridge:bot_1
+
+
+# Clean up broken glass
+create sensor-output cambridge:bot_1 type microphone value "sound of breaking glass at lat 42.3830 long -71.1125"
+notify controller
+show device cambridge:bot_1
+
+# Respond to person seen event
+create sensor-event cambridge:bot_1 type camera value "Person resident_1 seen at lat 42.3830 long -71.1125" subject resident_1
+notify controller
+show device cambridge:bot_1
+
+# Help find missing resident
+create sensor-event cambridge:bot_1 type microphone value "Can you help me find my child resident_1?" subject resident_1
+notify controller
+show device cambridge:bot_1
+
+# Address parking issue
+create sensor-event cambridge:ps_1 type microphone value "Vehicle car_1 parked for 1 hour." subject car_1
+notify controller
+show device cambridge:ps_1
+
+# Address bus route question
+create sensor-event cambridge:bus_1 type microphone value "Person  resident_1 says, "Does this bus go to central square?"" subject resident_1
+notify controller
+show device cambridge:bus_1
+
+# Address bus boarding
+create sensor-event cambridge:bus_1 type microphone value "Person resident_1 boards bus." subject resident_1
+notify controller
+show device cambridge:bus_1
+
+# Address bus boarding
+create sensor-event cambridge:bus_1 type microphone value "Person resident_1 boards bus." subject visitor_1
+notify controller
+show device cambridge:bus_1
+
+# Address movie info
+create sensor-event cambridge:kiosk_1 type microphone value "Person resident_1 says, “what movies are showing tonight?"" subject resident_1
+notify controller
+show device cambridge:kiosk_1
+
+# Address movie reservation
+create sensor-event cambridge:kiosk_1 type microphone value "Person resident_1 says, "reserve 2 seats for the 9 pm showing of Casablanca."" subject resident_1
+notify controller
+show device cambridge:kiosk_1
+
+# Show response to minor emergency
+show device cambridge:bot_1
+create sensor-output cambridge type camera value "Emergency traffic accident at lat 42.3830 long -71.1125"
+notify controller
+show device cambridge:bot_1
+
+# Show response to major emergency
+show device cambridge:bot_1
+create sensor-output cambridge type camera value "Emergency fire at lat 42.3830 long -71.1125"
+notify controller
+
+# Remove subscription from Controller Service
+detach controller
